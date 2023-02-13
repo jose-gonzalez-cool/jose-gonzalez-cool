@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jose-gonzalez-cool
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: you can't
+- heyo nerd, im @jose-gonzalez-cool
+- c++ lookin kinda cool ngl
+- im learning javascript
+- collaboration is for nerds
+- if you wanna talk screw off
 
 <!---
 jose-gonzalez-cool/jose-gonzalez-cool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
